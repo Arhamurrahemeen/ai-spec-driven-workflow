@@ -44,8 +44,7 @@ This is my working notebook — the principles I've developed, the processes I a
 | [`playbooks/`](./playbooks) | Repeatable processes, step by step |
 | [`case-studies/`](./case-studies) | Real projects — what worked and what broke |
 | [`tool-stacks/`](./tool-stacks) | The tools I use and how I choose them |
-| [`career/`](./career) | Advice for students and juniors |
-| [`field-notes/`](./field-notes) | Short entries, logged as I go |
+| [`career-growth/`](./career-growth) | Advice for students and juniors |
 
 ---
 
@@ -54,8 +53,8 @@ This is my working notebook — the principles I've developed, the processes I a
 | | |
 | :--- | :--- |
 | [Why I work specs-first →](./philosophies/sdd-vs-vibe-coding.md) | My core engineering philosophy |
-| [How I start any project →](./playbooks/the-blueprint-method.md) | Idea to shipped, step by step |
-| [A real project, with the messy parts →](./case-studies/hsk-bone-care-migration.md) | HSK Bone Care: NoSQL → PostgreSQL |
+| [How I start any project →](./playbooks/starting-a-new-project.md) | Idea to shipped, step by step |
+| [The two months before I called it a startup →](./playbooks/starting-a-startup.md) | Market-walking, probes, and a pilot |
 
 ---
 
