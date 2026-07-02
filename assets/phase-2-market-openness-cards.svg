@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 780" role="img" aria-label="Phase 2: five markets I walked in two months. Petroleum, petrol pumps, banks, and telecom towers were closed. Hospitals were open.">
+  <defs>
+    <pattern id="dots-p2" x="0" y="0" width="14" height="14" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1" fill="#1C1B19" fill-opacity="0.05"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="780" fill="#F4EEE2"/>
+  <rect width="1200" height="780" fill="url(#dots-p2)"/>
+
+  <text x="600" y="52" text-anchor="middle" font-family="Courier New, monospace" font-size="12" letter-spacing="5" fill="#8A8275">PHASE 02 · FIVE MARKETS · TWO MONTHS</text>
+  <line x1="500" y1="66" x2="700" y2="66" stroke="#539091" stroke-width="1.5"/>
+  <text x="600" y="98" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="24" fill="#1C1B19">Four closed doors. One open one.</text>
+
+  <!-- Row 1 -->
+  <!-- Card 1: Petroleum -->
+  <g>
+    <rect x="60" y="140" width="360" height="180" rx="6" fill="#FFFFFF" stroke="#E0D8CA" stroke-width="1"/>
+    <rect x="60" y="140" width="5" height="180" fill="#B25C3F"/>
+    <text x="80" y="176" font-family="Courier New, monospace" font-size="11" letter-spacing="3" fill="#8A8275">01 · PETROLEUM &amp; ENERGY</text>
+    <text x="380" y="176" text-anchor="end" font-family="Courier New, monospace" font-size="11" letter-spacing="3" fill="#B25C3F">CLOSED</text>
+    <text x="80" y="212" font-family="Georgia, serif" font-style="italic" font-size="19" fill="#1C1B19">Ecosystems already installed.</text>
+    <text x="80" y="252" font-family="Georgia, serif" font-size="14" fill="#3A372F">Software and systems imported</text>
+    <text x="80" y="272" font-family="Georgia, serif" font-size="14" fill="#3A372F">from the Gulf. Incumbents</text>
+    <text x="80" y="292" font-family="Georgia, serif" font-size="14" fill="#3A372F">entrenched. New startups aren't</text>
+    <text x="80" y="312" font-family="Georgia, serif" font-size="14" fill="#3A372F">welcomed.</text>
+  </g>
+
+  <!-- Card 2: Petrol Pumps -->
+  <g>
+    <rect x="440" y="140" width="360" height="180" rx="6" fill="#FFFFFF" stroke="#E0D8CA" stroke-width="1"/>
+    <rect x="440" y="140" width="5" height="180" fill="#B25C3F"/>
+    <text x="460" y="176" font-family="Courier New, monospace" font-size="11" letter-spacing="3" fill="#8A8275">02 · PETROL PUMPS</text>
+    <text x="760" y="176" text-anchor="end" font-family="Courier New, monospace" font-size="11" letter-spacing="3" fill="#B25C3F">CLOSED</text>
+    <text x="460" y="212" font-family="Georgia, serif" font-style="italic" font-size="19" fill="#1C1B19">Already covered by ARG.</text>
+    <text x="460" y="252" font-family="Georgia, serif" font-size="14" fill="#3A372F">The gap I saw was already</text>
+    <text x="460" y="272" font-family="Georgia, serif" font-size="14" fill="#3A372F">someone else's product.</text>
+    <text x="460" y="292" font-family="Georgia, serif" font-size="14" fill="#3A372F">Monitoring, reconciliation,</text>
+    <text x="460" y="312" font-family="Georgia, serif" font-size="14" fill="#3A372F">inventory — all handled.</text>
+  </g>
+
+  <!-- Card 3: Banks -->
+  <g>
+    <rect x="820" y="140" width="320" height="180" rx="6" fill="#FFFFFF" stroke="#E0D8CA" stroke-width="1"/>
+    <rect x="820" y="140" width="5" height="180" fill="#B25C3F"/>
+    <text x="840" y="176" font-family="Courier New, monospace" font-size="11" letter-spacing="3" fill="#8A8275">03 · BANKS</text>
+    <text x="1100" y="176" text-anchor="end" font-family="Courier New, monospace" font-size="11" letter-spacing="3" fill="#B25C3F">CLOSED</text>
+    <text x="840" y="212" font-family="Georgia, serif" font-style="italic" font-size="19" fill="#1C1B19">Nobody has approval power.</text>
+    <text x="840" y="252" font-family="Georgia, serif" font-size="14" fill="#3A372F">Manager → GM → HQ. Every</text>
+    <text x="840" y="272" font-family="Georgia, serif" font-size="14" fill="#3A372F">bank has its own software</text>
+    <text x="840" y="292" font-family="Georgia, serif" font-size="14" fill="#3A372F">department. Penetration is</text>
+    <text x="840" y="312" font-family="Georgia, serif" font-size="14" fill="#3A372F">measured in years.</text>
+  </g>
+
+  <!-- Row 2 -->
+  <!-- Card 4: Telecom -->
+  <g>
+    <rect x="60" y="340" width="360" height="180" rx="6" fill="#FFFFFF" stroke="#E0D8CA" stroke-width="1"/>
+    <rect x="60" y="340" width="5" height="180" fill="#B25C3F"/>
+    <text x="80" y="376" font-family="Courier New, monospace" font-size="11" letter-spacing="3" fill="#8A8275">04 · TELECOM TOWERS</text>
+    <text x="380" y="376" text-anchor="end" font-family="Courier New, monospace" font-size="11" letter-spacing="3" fill="#B25C3F">CLOSED</text>
+    <text x="80" y="412" font-family="Georgia, serif" font-style="italic" font-size="19" fill="#1C1B19">Solved at the network level.</text>
+    <text x="80" y="452" font-family="Georgia, serif" font-size="14" fill="#3A372F">Visited five towers. No</text>
+    <text x="80" y="472" font-family="Georgia, serif" font-size="14" fill="#3A372F">officials on site. Everything</text>
+    <text x="80" y="492" font-family="Georgia, serif" font-size="14" fill="#3A372F">monitored from HQ in Karachi</text>
+    <text x="80" y="512" font-family="Georgia, serif" font-size="14" fill="#3A372F">or Hyderabad.</text>
+  </g>
+
+  <!-- Card 5: Hospitals -->
+  <g>
+    <rect x="440" y="340" width="700" height="180" rx="6" fill="#FFFFFF" stroke="#E0D8CA" stroke-width="1"/>
+    <rect x="440" y="340" width="5" height="180" fill="#539091"/>
+    <text x="460" y="376" font-family="Courier New, monospace" font-size="11" letter-spacing="3" fill="#8A8275">05 · HOSPITALS</text>
+    <text x="1100" y="376" text-anchor="end" font-family="Courier New, monospace" font-size="11" letter-spacing="3" fill="#539091">OPEN</text>
+    <text x="460" y="416" font-family="Georgia, serif" font-style="italic" font-size="22" fill="#1C1B19">Admins are approachable. If you find a real gap</text>
+    <text x="460" y="444" font-family="Georgia, serif" font-style="italic" font-size="22" fill="#1C1B19">and can articulate a solution, they'll hear you out.</text>
+    <text x="460" y="482" font-family="Georgia, serif" font-size="14" fill="#3A372F">Clear gaps in workflow, records, admin, patient tracking. Communication</text>
+    <text x="460" y="502" font-family="Georgia, serif" font-size="14" fill="#3A372F">and problem clarity matter more than credentials.</text>
+  </g>
+
+  <!-- Bottom note strip -->
+  <g>
+    <rect x="60" y="560" width="1080" height="120" rx="6" fill="#FFFFFF" stroke="#E0D8CA" stroke-width="1"/>
+    <rect x="60" y="560" width="5" height="120" fill="#8A8275"/>
+    <text x="80" y="596" font-family="Courier New, monospace" font-size="11" letter-spacing="3" fill="#8A8275">THE HONEST FOOTNOTE</text>
+    <text x="80" y="628" font-family="Georgia, serif" font-style="italic" font-size="17" fill="#1C1B19">Hospitals were easiest because my family owns HSK Bone Care in Mirpurkhas.</text>
+    <text x="80" y="652" font-family="Georgia, serif" font-size="14" fill="#3A372F">If you don't have a similar entry point, your job in Phase 2 is to find one. A cousin who runs a workshop.</text>
+    <text x="80" y="672" font-family="Georgia, serif" font-size="14" fill="#3A372F">A friend's father who owns a cold storage. A university lab connected to industry. The first door in doesn't have to be the last.</text>
+  </g>
+
+  <text x="600" y="730" text-anchor="middle" font-family="Courier New, monospace" font-size="11" letter-spacing="4" fill="#8A8275">NEXT ON THE LIST: COLD STORAGE · TEXTILE · LIGHT ENGINEERING · FOOD PROCESSING · COTTON · SUGAR</text>
+</svg>

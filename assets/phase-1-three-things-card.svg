@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" role="img" aria-label="Phase 1: the three sentences you write on paper — the problem in one sentence, the current workaround, and why now">
+  <defs>
+    <pattern id="dots-p1" x="0" y="0" width="14" height="14" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1" fill="#1C1B19" fill-opacity="0.05"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="380" fill="#F4EEE2"/>
+  <rect width="1200" height="380" fill="url(#dots-p1)"/>
+
+  <text x="600" y="52" text-anchor="middle" font-family="Courier New, monospace" font-size="12" letter-spacing="5" fill="#8A8275">PHASE 01 · WRITE ON PAPER</text>
+  <line x1="540" y1="66" x2="660" y2="66" stroke="#539091" stroke-width="1.5"/>
+  <text x="600" y="98" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="24" fill="#1C1B19">Three sentences. No hedging. No laptop yet.</text>
+
+  <!-- Card 1 -->
+  <g>
+    <rect x="80" y="140" width="330" height="200" rx="6" fill="#FFFFFF" stroke="#E0D8CA" stroke-width="1"/>
+    <rect x="80" y="140" width="5" height="200" fill="#539091"/>
+    <text x="100" y="176" font-family="Courier New, monospace" font-size="11" letter-spacing="3" fill="#8A8275">01 · THE PROBLEM</text>
+    <text x="100" y="216" font-family="Georgia, serif" font-style="italic" font-size="22" fill="#1C1B19">In one sentence.</text>
+    <text x="100" y="258" font-family="Georgia, serif" font-size="14" fill="#3A372F">Whose problem is it?</text>
+    <text x="100" y="280" font-family="Georgia, serif" font-size="14" fill="#3A372F">What does their day look like</text>
+    <text x="100" y="300" font-family="Georgia, serif" font-size="14" fill="#3A372F">when the problem hits?</text>
+    <text x="100" y="322" font-family="Georgia, serif" font-style="italic" font-size="13" fill="#6E6A62">Can't name the person? You have a topic, not a problem.</text>
+  </g>
+
+  <!-- Card 2 -->
+  <g>
+    <rect x="435" y="140" width="330" height="200" rx="6" fill="#FFFFFF" stroke="#E0D8CA" stroke-width="1"/>
+    <rect x="435" y="140" width="5" height="200" fill="#539091"/>
+    <text x="455" y="176" font-family="Courier New, monospace" font-size="11" letter-spacing="3" fill="#8A8275">02 · THE WORKAROUND</text>
+    <text x="455" y="216" font-family="Georgia, serif" font-style="italic" font-size="22" fill="#1C1B19">Find the duct tape.</text>
+    <text x="455" y="258" font-family="Georgia, serif" font-size="14" fill="#3A372F">How are they solving it today?</text>
+    <text x="455" y="280" font-family="Georgia, serif" font-size="14" fill="#3A372F">A spreadsheet, a WhatsApp</text>
+    <text x="455" y="300" font-family="Georgia, serif" font-size="14" fill="#3A372F">group, a person, a habit.</text>
+    <text x="455" y="322" font-family="Georgia, serif" font-style="italic" font-size="13" fill="#6E6A62">"They aren't" is almost always the wrong answer.</text>
+  </g>
+
+  <!-- Card 3 -->
+  <g>
+    <rect x="790" y="140" width="330" height="200" rx="6" fill="#FFFFFF" stroke="#E0D8CA" stroke-width="1"/>
+    <rect x="790" y="140" width="5" height="200" fill="#539091"/>
+    <text x="810" y="176" font-family="Courier New, monospace" font-size="11" letter-spacing="3" fill="#8A8275">03 · WHY NOW</text>
+    <text x="810" y="216" font-family="Georgia, serif" font-style="italic" font-size="22" fill="#1C1B19">What changed?</text>
+    <text x="810" y="258" font-family="Georgia, serif" font-size="14" fill="#3A372F">Cheaper hardware, new rules,</text>
+    <text x="810" y="280" font-family="Georgia, serif" font-size="14" fill="#3A372F">shifted behavior, unlocked</text>
+    <text x="810" y="300" font-family="Georgia, serif" font-size="14" fill="#3A372F">tech in the last two years.</text>
+    <text x="810" y="322" font-family="Georgia, serif" font-style="italic" font-size="13" fill="#6E6A62">Nothing changed? Ask why the incumbents haven't done it.</text>
+  </g>
+</svg>
